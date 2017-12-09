@@ -5,7 +5,7 @@ package com.cyh.creational.prototype.pattern;
  */
 public class Circle extends Shape {
 
-    public Circle(){
+    public Circle() {
         type = "Circle";
     }
 
