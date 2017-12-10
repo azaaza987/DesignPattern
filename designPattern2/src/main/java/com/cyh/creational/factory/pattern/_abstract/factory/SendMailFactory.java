@@ -6,7 +6,7 @@ package com.cyh.creational.factory.pattern._abstract.factory;
 public class SendMailFactory implements Provider {
 
     @Override
-    public Sender produce(){
+    public Sender produce() {
         return new MailSender();
     }
 }
