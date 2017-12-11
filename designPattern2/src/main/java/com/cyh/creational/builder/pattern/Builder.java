@@ -1,4 +1,4 @@
-package com.cyh.creational.factory.pattern.builder;
+package com.cyh.creational.builder.pattern;
 
 import java.util.ArrayList;
 import java.util.List;

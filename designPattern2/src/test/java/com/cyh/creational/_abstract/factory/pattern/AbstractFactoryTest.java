@@ -1,4 +1,4 @@
-package com.cyh.creational.factory.pattern._abstract.factory;
+package com.cyh.creational._abstract.factory.pattern;
 
 import org.junit.Test;
 

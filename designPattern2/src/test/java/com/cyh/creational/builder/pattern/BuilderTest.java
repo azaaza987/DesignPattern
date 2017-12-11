@@ -1,4 +1,4 @@
-package com.cyh.creational.factory.pattern.builder;
+package com.cyh.creational.builder.pattern;
 
 /**
  * Created by Administrator on 2017/12/10 0010.

@@ -1,4 +1,4 @@
-package com.cyh.creational.factory.pattern.singleton.method03;
+package com.cyh.creational.singleton.method03;
 
 /**
  * Created by Administrator on 2017/12/10 0010.
